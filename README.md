@@ -10,8 +10,7 @@
 ---
 
 <p align="center">
-  <img src="assets/gostack.png" width="300" /> 
-  <img src="assets/fastfeet.png" width="300" />
+  <img src="assets/gostack.png" />
 </p>
 
 <p align="center">
@@ -19,6 +18,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="assets/fastfeet.png" width="300" />
+</p>
 
 ### Backend installation and execution
 
@@ -45,8 +48,8 @@ Password: `123456`.
 
 ### To do
 
-[] Web frontend > [bootcamp-gostack-desafio-09](bootcamp-gostack-desafio-09)
-[] Mobile app > [bootcamp-gostack-desafio-10](bootcamp-gostack-desafio-10)
+[ ] Web frontend > [bootcamp-gostack-desafio-09](bootcamp-gostack-desafio-09)  
+[ ] Mobile app > [bootcamp-gostack-desafio-10](bootcamp-gostack-desafio-10)
 
 ---
 
